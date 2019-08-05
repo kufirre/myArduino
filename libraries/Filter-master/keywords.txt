@@ -1,0 +1,5 @@
+Filter	KEYWORD1
+Moving_average	KEYWORD1
+length	KEYWORD2
+filter	KEYWORD2
+current	KEYWORD2
